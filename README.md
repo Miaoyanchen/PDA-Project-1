@@ -1,5 +1,4 @@
 ---
----
 
 # Exploratory data analysis of environmental conditions and marathon performance
 
