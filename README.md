@@ -1,7 +1,4 @@
 ---
-editor_options: 
-  markdown: 
-    wrap: 72
 ---
 
 # Exploratory data analysis of environmental conditions and marathon performance
