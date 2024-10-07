@@ -420,7 +420,8 @@ In this EDA, we have discovered that marathon performance varies across lifespan
 
 ## References
 
-<div id="refs"></div>
+::: {#refs}
+:::
 
 \newpage
 
