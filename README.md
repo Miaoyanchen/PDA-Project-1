@@ -51,14 +51,14 @@ differs across age groups.
 The following packages are required to run the code in the R quarto
 file:
 
--   library(tidyverse) - data manipulation
+-   `tidyverse` - data manipulation
 
--   library(dplyr) - data manipulation
+-  `dplyr` - data manipulation
 
--   library(ggplot2) - visualization
+-   `ggplot2` - visualization
 
--   library(kableExtra) - create nice table
+-   `kableExtra` - create nice table
 
--   library(gtsummary) - create table summary and statistics
+-   `gtsummary` - create table summary and statistics
 
--   library(lubridate) use to reformat dates
+-  `lubridate` use to reformat dates
